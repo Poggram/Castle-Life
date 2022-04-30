@@ -1,0 +1,8 @@
+{
+  "name": "Castle-Life",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Poggram/Castle-Life",
+  "author": "<chaloton1610@gmail.com>",
+  "license": "MIT"
+}
